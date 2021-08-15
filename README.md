@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python OOP, SQL and BigQuery
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🤔 I’m looking for help with machine learning and SQL
-- 💬 Ask me about pandas, statistics.
+- 💬 Ask me about pandas, statistics, machine learning, deep learning and Natural language processing.
 - 📫 How to reach me: Twitter @mkayanda; Linkedin Moses Kayanda, or mkayanda@usfca.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak/write Swahili... I can cook. Try me!!
