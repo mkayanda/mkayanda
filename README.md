@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on enhancing my ML algorithms that I learnt in my MS program. Like Wine, gets better with age (touche?)
-- 🌱 I’m currently learning Python OOP, SQL and BigQuery. I believe I have it figured out, I just need to scale to more projects.
+- 🌱 I’m currently learning Deep Learning (DL with Python is my current read).
 - 👯 I’m looking to collaborate on Data Science projects. (any industry really) 
 - 🤔 I’m looking for help with machine learning and SQL
 - 💬 Ask me about pandas, statistics, machine learning, deep learning and Natural language processing.
