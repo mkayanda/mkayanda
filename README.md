@@ -7,5 +7,5 @@
 - 💬 Ask me about pandas, statistics, machine learning, deep learning and Natural language processing.
 - 📫 How to reach me: Twitter @mkayanda; Linkedin Moses Kayanda, or mkayanda@usfca.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speak/write Swahili... I can cook. Try me!!
+- ⚡ Fun fact: I can speak/write Kiswahili (native) and I can cook. Try me!!
 --> When I'm not on my computer, I am running around with my kids. When are they leaving for college? 
